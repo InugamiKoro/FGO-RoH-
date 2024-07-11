@@ -5,10 +5,17 @@
 # 快速導覽
 
 [基本規則](/Basic/Rule.md)
+
 [從者規則](/Servant/Servant.md)
+
 [御主規則](/Master/Master.md)
+
 [補充資料](/Extra%20Info/Extra%20Info.md)
+
 [聖杯戰線相關規則](/Line%20Rule/Rule.md)
+
 [角卡相關元素](/Character%20Card/All.md)
+
 [御主角卡相關元素](/Character%20Card/Master.md)
+
 [從者角卡相關元素](/Character%20Card/Servant.md)
